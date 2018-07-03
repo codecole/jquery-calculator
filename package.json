@@ -1,0 +1,11 @@
+{
+  "name": "jquery-simple-calculator",
+  "version": "1.0.0",
+  "description": "simple jquery calculator",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "github.com/thecodeghost",
+  "license": "ISC"
+}
